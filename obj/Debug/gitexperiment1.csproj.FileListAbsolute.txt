@@ -1,0 +1,8 @@
+C:\Users\shun\Documents\Visual Studio 2008\Projects\gitexperiment1\gitexperiment1\bin\Debug\gitexperiment1.exe
+C:\Users\shun\Documents\Visual Studio 2008\Projects\gitexperiment1\gitexperiment1\bin\Debug\gitexperiment1.pdb
+C:\Users\shun\Documents\Visual Studio 2008\Projects\gitexperiment1\gitexperiment1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shun\Documents\Visual Studio 2008\Projects\gitexperiment1\gitexperiment1\obj\Debug\gitexperiment1.Form1.resources
+C:\Users\shun\Documents\Visual Studio 2008\Projects\gitexperiment1\gitexperiment1\obj\Debug\gitexperiment1.Properties.Resources.resources
+C:\Users\shun\Documents\Visual Studio 2008\Projects\gitexperiment1\gitexperiment1\obj\Debug\gitexperiment1.csproj.GenerateResource.Cache
+C:\Users\shun\Documents\Visual Studio 2008\Projects\gitexperiment1\gitexperiment1\obj\Debug\gitexperiment1.exe
+C:\Users\shun\Documents\Visual Studio 2008\Projects\gitexperiment1\gitexperiment1\obj\Debug\gitexperiment1.pdb
